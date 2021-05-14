@@ -1,0 +1,5 @@
+node 255 has a new route to 255 through 0. Cost is 555
+Route from 255 to 255 through 0 added to Forwarding.
+node 255 has recovered node 0 with link cost: 555. Link version: 1
+node 255 has a new route to 0 through 0. Cost is 555
+Route from 255 to 0 through 0 added to Forwarding.

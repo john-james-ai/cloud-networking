@@ -1,0 +1,1 @@
+forward packet dest 0 nexthop 0 message Test: 3 Case: 3 From 3 to 0

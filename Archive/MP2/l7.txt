@@ -1,0 +1,2 @@
+sending packet dest 5 nexthop 4 message Test: 5 Case: 4 From 7 to 5
+forward packet dest 1 nexthop 6 message Test: 6 Case: 5 From 3 to 1

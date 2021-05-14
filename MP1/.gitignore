@@ -1,0 +1,12 @@
+*.pdf
+*.zip
+*.pptx
+*.jpeg
+*.deb
+output
+*.avi
+*.code-workspace
+*.vscode
+*.txt
+*.html
+\test
